@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e94ff71c-40d6-4e16-93bb-955ce57a4012" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TypeScriptTraining/04-classes/05-modules/Driver.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TypeScriptTraining/04-classes/05-modules/Driver.ts" afterDir="false" />
-    </list>
+    <list default="true" id="e94ff71c-40d6-4e16-93bb-955ce57a4012" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +17,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/madal/Desktop/Files/CursAngularChad/AngularTraining",
+    "last_opened_file_path": "C:/Users/madal/Desktop/Files/CursAngularChad",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,6 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674470554964</updated>
       <workItem from="1674470556538" duration="16000" />
+      <workItem from="1674470927923" duration="99000" />
     </task>
     <servers />
   </component>
