@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e94ff71c-40d6-4e16-93bb-955ce57a4012" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TypeScriptTraining/04-classes/05-modules/Driver.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TypeScriptTraining/04-classes/05-modules/Driver.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Kiw8F17LEcbjLzrwQNlf03Av5n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/madal/Desktop/Files/CursAngularChad/AngularTraining",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e94ff71c-40d6-4e16-93bb-955ce57a4012" name="Changes" comment="" />
+      <created>1674470554964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674470554964</updated>
+      <workItem from="1674470556538" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TypeScriptTraining/04-classes/05-modules/Driver.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/01-helloworld/myHelloWorld.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/05-inheritance/Rectangle.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/05-inheritance/ArrayDriver.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/04-classes/03-tsconfig/Customer.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/02-variables/sample-types.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/06-abstract/Circle.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/06-abstract/Rectangle.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/06-abstract/Shape.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/05-inheritance/Shape.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/05-inheritance/Driver.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/04-classes/05-modules/Customer.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/03-loops&amp;arrays/main.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/05-inheritance/Circle.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/04-classes/01-class-definition/Customer.js" />
+        <option value="$PROJECT_DIR$/TypeScriptTraining/06-abstract/ArrayDriver.js" />
+      </list>
+    </option>
+  </component>
+</project>
